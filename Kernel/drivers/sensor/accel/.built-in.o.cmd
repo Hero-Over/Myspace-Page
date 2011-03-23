@@ -1,1 +1,0 @@
-cmd_drivers/sensor/accel/built-in.o :=  /home/jdubz/Downloads/prebuilt/linux-x86/toolchain/arm-2009q3/bin/arm-none-linux-gnueabi-ld -EL    -r -o drivers/sensor/accel/built-in.o drivers/sensor/accel/smb_i2c.o drivers/sensor/accel/smb380.o drivers/sensor/accel/smb_acc.o drivers/sensor/accel/smb380calib.o 

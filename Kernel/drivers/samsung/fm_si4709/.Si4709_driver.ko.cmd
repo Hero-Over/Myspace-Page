@@ -1,1 +1,0 @@
-cmd_drivers/samsung/fm_si4709/Si4709_driver.ko := /home/jdubz/Downloads/prebuilt/linux-x86/toolchain/arm-2009q3/bin/arm-none-linux-gnueabi-ld -EL -r  -T /home/jdubz/Downloads/BAKED/Kernel/scripts/module-common.lds --build-id -o drivers/samsung/fm_si4709/Si4709_driver.ko drivers/samsung/fm_si4709/Si4709_driver.o drivers/samsung/fm_si4709/Si4709_driver.mod.o

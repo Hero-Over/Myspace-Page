@@ -1,1 +1,0 @@
-cmd_drivers/onedram_svn/victory/svnet/svnet.o := /home/jdubz/Downloads/prebuilt/linux-x86/toolchain/arm-2009q3/bin/arm-none-linux-gnueabi-ld -EL    -r -o drivers/onedram_svn/victory/svnet/svnet.o drivers/onedram_svn/victory/svnet/main.o drivers/onedram_svn/victory/svnet/pdp.o drivers/onedram_svn/victory/svnet/sipc4.o 

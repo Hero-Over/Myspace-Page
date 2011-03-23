@@ -1,1 +1,0 @@
-cmd_drivers/video/fb.o := /home/jdubz/Downloads/prebuilt/linux-x86/toolchain/arm-2009q3/bin/arm-none-linux-gnueabi-ld -EL    -r -o drivers/video/fb.o drivers/video/fbmem.o drivers/video/fbmon.o drivers/video/fbcmap.o drivers/video/fbsysfs.o drivers/video/modedb.o drivers/video/fbcvt.o 

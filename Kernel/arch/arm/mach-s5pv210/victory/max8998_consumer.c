@@ -87,7 +87,7 @@ enum PMIC_VOLTAGE {
 static const unsigned int frequency_match_1GHZ[][4] = {
 /* frequency, Mathced VDD ARM voltage , Matched VDD INT*/
 #if 1
-        {1280000, 1325, 1100, 0}, //added 1.2GHz step with voltages
+        {1280000, 1300, 1100, 0}, //added 1.2GHz step with voltages
         {1000000, 1250, 1100, 0}, //changed voltage from 1275 to 1250 for undervolt at 1GHz
         {800000, 1175, 1100, 1},
         {400000, 1100, 1100, 2}, //had to increase voltage to 1200 from 1050 per original comment above dvs_volt_table_800MHZ below
