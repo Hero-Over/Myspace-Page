@@ -1,0 +1,1 @@
+cmd_drivers/serial/built-in.o :=  /home/jdubz/Downloads/prebuilt/linux-x86/toolchain/arm-2009q3/bin/arm-none-linux-gnueabi-ld -EL    -r -o drivers/serial/built-in.o drivers/serial/serial_core.o drivers/serial/samsung.o drivers/serial/s5pv210.o 
